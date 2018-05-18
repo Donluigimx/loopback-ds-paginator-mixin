@@ -1,6 +1,6 @@
 {
   "name": "loopback-ds-paginator-mixin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Paginator mixin for Loopback framework models",
   "main": "paginator.js",
   "scripts": {
@@ -10,18 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Donluigimx/loopback-ds-paginator-mixin.git"
   },
-  "keywords": [
-    "loopback",
-    "paginator",
-    "models",
-    "datasource"
-  ],
+  "keywords": ["loopback", "paginator", "models", "datasource"],
   "author": "donluigimx",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Donluigimx/loopback-ds-paginator-mixin/issues"
   },
-  "homepage": "https://github.com/Donluigimx/loopback-ds-paginator-mixin#readme",
+  "homepage":
+    "https://github.com/Donluigimx/loopback-ds-paginator-mixin#readme",
   "dependencies": {
     "lodash": "^4.17.4"
   }
